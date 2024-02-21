@@ -1,0 +1,11 @@
+Pepa
+Strength - 4
+Defense - 4
+Dexterity - 2
+Skill - 2
+HP - 60
+Luck - 1
+2
+FIGHT
+0
+Látkové brneni (LVL 1)
